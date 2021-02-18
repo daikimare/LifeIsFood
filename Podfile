@@ -6,6 +6,7 @@ target 'LifeIsFood' do
   use_frameworks!
 
   # Pods for LifeIsFood
+  pod 'FSCalendar'
 
   target 'LifeIsFoodTests' do
     inherit! :search_paths
