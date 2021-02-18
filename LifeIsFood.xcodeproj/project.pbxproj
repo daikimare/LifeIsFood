@@ -129,6 +129,8 @@
 				28F89CCE25DB068B00C22F87 /* Assets.xcassets */,
 				28F89CD025DB068B00C22F87 /* LaunchScreen.storyboard */,
 				28F89CD325DB068B00C22F87 /* Info.plist */,
+				281ED6CC25DB0F8A00C38405 /* DemoView.xib */,
+				281ED6D425DB249300C38405 /* DemoView.swift */,
 			);
 			path = LifeIsFood;
 			sourceTree = "<group>";
@@ -283,6 +285,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				28F89CD225DB068B00C22F87 /* LaunchScreen.storyboard in Resources */,
+				281ED6CD25DB0F8A00C38405 /* DemoView.xib in Resources */,
 				28F89CCF25DB068B00C22F87 /* Assets.xcassets in Resources */,
 				2894A38125DE3D98000D57A2 /* CalendarView.xib in Resources */,
 				28F89CCD25DB068800C22F87 /* Main.storyboard in Resources */,
@@ -414,6 +417,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				28F89CCA25DB068800C22F87 /* ViewController.swift in Sources */,
+				281ED6D525DB249300C38405 /* DemoView.swift in Sources */,
 				28F89CC625DB068800C22F87 /* AppDelegate.swift in Sources */,
 				2894A37C25DE3D82000D57A2 /* CalendarView.swift in Sources */,
 				28F89CC825DB068800C22F87 /* SceneDelegate.swift in Sources */,
