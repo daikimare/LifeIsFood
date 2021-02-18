@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		281ED6CD25DB0F8A00C38405 /* DemoView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 281ED6CC25DB0F8A00C38405 /* DemoView.xib */; };
+		281ED6D525DB249300C38405 /* DemoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 281ED6D425DB249300C38405 /* DemoView.swift */; };
 		28F89CC625DB068800C22F87 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28F89CC525DB068800C22F87 /* AppDelegate.swift */; };
 		28F89CC825DB068800C22F87 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28F89CC725DB068800C22F87 /* SceneDelegate.swift */; };
 		28F89CCA25DB068800C22F87 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28F89CC925DB068800C22F87 /* ViewController.swift */; };
@@ -35,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		281ED6CC25DB0F8A00C38405 /* DemoView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DemoView.xib; sourceTree = "<group>"; };
+		281ED6D425DB249300C38405 /* DemoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoView.swift; sourceTree = "<group>"; };
 		28F89CC225DB068800C22F87 /* LifeIsFood.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LifeIsFood.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		28F89CC525DB068800C22F87 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		28F89CC725DB068800C22F87 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -106,6 +110,8 @@
 				28F89CCE25DB068B00C22F87 /* Assets.xcassets */,
 				28F89CD025DB068B00C22F87 /* LaunchScreen.storyboard */,
 				28F89CD325DB068B00C22F87 /* Info.plist */,
+				281ED6CC25DB0F8A00C38405 /* DemoView.xib */,
+				281ED6D425DB249300C38405 /* DemoView.swift */,
 			);
 			path = LifeIsFood;
 			sourceTree = "<group>";
@@ -232,6 +238,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				28F89CD225DB068B00C22F87 /* LaunchScreen.storyboard in Resources */,
+				281ED6CD25DB0F8A00C38405 /* DemoView.xib in Resources */,
 				28F89CCF25DB068B00C22F87 /* Assets.xcassets in Resources */,
 				28F89CCD25DB068800C22F87 /* Main.storyboard in Resources */,
 			);
@@ -259,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				28F89CCA25DB068800C22F87 /* ViewController.swift in Sources */,
+				281ED6D525DB249300C38405 /* DemoView.swift in Sources */,
 				28F89CC625DB068800C22F87 /* AppDelegate.swift in Sources */,
 				28F89CC825DB068800C22F87 /* SceneDelegate.swift in Sources */,
 			);
